@@ -1,16 +1,16 @@
-# Hi, I'm Giovana 👋
+# Hi, I'm Giovana
 
 PhD Student in Computer Science at CINVESTAV Guadalajara.
 
 ## Education
 
-🎓 PhD in Computer Science (ongoing)
+PhD in Computer Science (ongoing)
 - CINVESTAV Guadalajara
 
-🎓 M.Sc. in Computer Science
-- Cinvestav Guadalajara
+M.Sc. in Computer Science
+- CINVESTAV Guadalajara
 
-🎓 B.Eng. in Electronic Design Engineering
+B.Eng. in Electronic Design Engineering
 - Centro de Enseñanza Técnica Industrial (CETI)
 
 
